@@ -9,15 +9,21 @@ ongoing challenge.
 
 1. Fork this repository
 2. Make a branch
+3. Create an install script
 
-Write an install script inside the `install` directory that will
-set up your version of grep, and then invoke your script from the
-`install.sh` file that you can find in the root of this repo.
+> Write an install script inside the `install` directory that will
+> set up your version of grep, and then invoke your script from the
+> `install.sh` file that you can find in the root of this repo.
 
-Before the test are excecuted Semaphore will install all the necesary
-dependicies by using this file.
+> Before the test are excecuted Semaphore will install all the necesary
+> dependicies by using this file.
 
-After that, add your tests in the `spec/grep_spec.rb` file.
+4. Write specs
+
+> Add your tests in the `spec/grep_spec.rb` file.
+
+3. Add a link to your repository
+4. Make a Pull Request
 
 ## License
 
