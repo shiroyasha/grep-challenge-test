@@ -5,7 +5,7 @@ Grep Challenge Test
 The purpose of this repository is to have a unified and simple test for the
 ongoing challenge.
 
-# Participants
+## Participan
 - [rg](https://github.com/shiroyasha/rust_grep) - Rust
 
 ## How to add your grep implementation
