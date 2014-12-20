@@ -10,9 +10,9 @@ ongoing challenge.
 
 ## How to add your grep implementation
 
-1. *Fork this repository*
-2. *Make a branch*
-3. *Create an install script*
+1. **Fork this repository**
+2. **Make a branch**
+3. **Create an install script**
 
   Write an install script inside the `install` directory that will
   set up your version of grep, and then invoke your script from the
@@ -21,12 +21,12 @@ ongoing challenge.
   Before the test are excecuted Semaphore will install all the necesary
   dependicies by using this file.
 
-4. *Write specs*
+4. **Write specs*
 
   Add your tests in the `spec/grep_spec.rb` file.
 
-5. *Add a link to your repository*
-6. *Make a Pull Request*
+5. **Add a link to your repository**
+6. **Make a Pull Request**
 
 ## License
 
