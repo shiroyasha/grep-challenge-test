@@ -21,7 +21,7 @@ ongoing challenge.
   Before the test are excecuted Semaphore will install all the necesary
   dependicies by using this file.
 
-4. **Write specs*
+4. **Write specs**
 
   Add your tests in the `spec/grep_spec.rb` file.
 
